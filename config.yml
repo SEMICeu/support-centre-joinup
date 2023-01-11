@@ -1,0 +1,36 @@
+# display the latest 5 issues
+latestIssues: 5
+# max length of the issue's title to be displayed
+issueMaxTitleLength: 50
+# list of repositories
+repositories:
+    - label: "Core Business"
+      url: https://github.com/SEMICeu/Core-Business-Vocabulary
+    - label: "Core Person"
+      url: https://github.com/SEMICeu/Core-Person-Vocabulary
+    - label: "Core Criterion and Core Evidence"
+      url: https://github.com/SEMICeu/CCCEV
+    - label: "Core Location"
+      url: https://github.com/SEMICeu/Core-Location-Vocabulary
+    - label: "Core Public Event"
+      url: https://github.com/SEMICeu/Core-Public-Event-Vocabulary
+    - label: "Core Public Organisation"
+      url: https://github.com/SEMICeu/CPOV
+    - label: "ADMS"
+      url: https://github.com/SEMICeu/ADMS
+    - label: "Linked Data Event Streams"
+      url: https://github.com/SEMICeu/LinkedDataEventStreams
+    - label: "CPSV-AP"
+      url: https://github.com/SEMICeu/CPSV-AP
+    - label: "BregDCAT-AP"
+      url: https://github.com/SEMICeu/BregDCAT-AP
+    - label: "DCAT-AP"
+      url: https://github.com/SEMICeu/DCAT-AP
+    - label: "StatDCAT-AP"
+      url: https://github.com/SEMICeu/StatDCAT-AP
+    - label: "GeoDCAT-AP"
+      url: https://github.com/SEMICeu/GeoDCAT-AP
+    - label: "ADMS-AP"
+      url: https://github.com/SEMICeu/ADMS-AP
+    - label: "CPSV"
+      url: https://github.com/SEMICeu/CPSV
