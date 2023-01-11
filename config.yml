@@ -2,7 +2,7 @@
 latestIssues: 5
 # max length of the issue's title to be displayed
 issueMaxTitleLength: 50
-# list of repositories
+# list of repositories ordered by priority
 repositories:
     - label: "Core Business"
       url: https://github.com/SEMICeu/Core-Business-Vocabulary
